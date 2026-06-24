@@ -1,1 +1,2 @@
-print("Hello, World!")
+main rewrites main.py
+print('from main')
