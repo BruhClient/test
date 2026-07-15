@@ -1,2 +1,3 @@
 debug=false
 level=info
+level=debug
